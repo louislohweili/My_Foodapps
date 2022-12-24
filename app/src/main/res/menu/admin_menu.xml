@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.louisloh.mytmcproject2.AdminMain">
+    <item
+        android:id="@+id/menu_Main"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        android:title="@string/Main"/>
+    <item
+        android:id="@+id/menu_Manage"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        android:title="customer view "/>
+    <item
+        android:id="@+id/menu_ListData"
+        android:orderInCategory="3"
+        app:showAsAction="never"
+        android:title="store view"/>
+
+    <item
+        android:id="@+id/menu_Logout"
+        android:orderInCategory="4"
+        app:showAsAction="never"
+        android:title="@string/Logout_string"/>
+
+</menu>

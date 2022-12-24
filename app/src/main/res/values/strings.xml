@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My_Foodapps</string>
+    <string name="password">Password</string>
+    <string name="Confirm_password">Confirm Password</string>
+    <string name="address">Address </string>
+    <string name="name">FullName :</string>
+    <string name="shopname">Store Name :</string>
+    <string name="email">Email :</string>
+    <string name="button_forgot">forgot Password</string>
+    <string name="Logout_string">Logout</string>
+    <string name="phoneno">Phone No</string>
+    <string name="Main">Home</string>
+
+    <string-array name="paymentType_arrays">
+        <item>Cash</item>
+        <item>Google pay</item>
+    </string-array>
+
+    <string-array name="service_arrays">
+        <item>Dining</item>
+        <item>take Out</item>
+        <item>Delivery</item>
+    </string-array>
+    <string-array name="status_arrays">
+        <item>Progress_in</item>
+        <item>DO_in</item>
+        <item>Order cancel</item>
+    </string-array>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">n3XnM30guCNZsUxlDHULYK86HORsy4XKagggVVoI</string>
+    <string name="back4app_client_key">SrmlC5JIBmcjwW2ACTtuVU7Qcbk9W7LjN8BTNsxa</string>
+    <string name="order_history">order history</string>
+    <string name="rest_password">rest password</string>
+</resources>
